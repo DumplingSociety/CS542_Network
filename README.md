@@ -5,7 +5,7 @@
 ### Preparation
 
 * Turn off the kernel icmp reply 
-- [ ]     echo 1 > /proc/sys/net/ipv4/icmp_echo_ignore_all
+    echo 1 > /proc/sys/net/ipv4/icmp_echo_ignore_all
 
 * Env requirement: Linux, Python3
 ### Command to run: 
